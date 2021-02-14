@@ -9,7 +9,12 @@ Do the following:
 
 */
 
-..
+
+let age = 19
+let person = (age >=18) ? 'True'
+Console.log(person)
+
+
 
 /*
 Task 2 - Values
@@ -20,6 +25,10 @@ Do the following:
    3. Return the new value of the 1st variable
 
 */
+
+let firstName = 'Suhaib'
+let secondName = 'ileeye'
+console.log(firstName.Second)
 
 
 
@@ -34,6 +43,9 @@ Do the following:
    HINT: look up the Number method
 */
 
+var num = '1999'
+var num = '1999' 
+
 
 /*
 Task 4 - Mood Checker
@@ -44,6 +56,8 @@ Do the following:
    3. Else just print 'So moody!'
 
 */
+ alert('Yay me tool') 
+ alert('So moody!') 
 
 
 /*
@@ -55,7 +69,7 @@ Use conditionals to check if a hardcoded number is odd or even, and then console
 
 */
 
-var num = ; // write a number here
+/* var num = ; // write a number here
 
 // write your conditions here
 
@@ -68,8 +82,16 @@ You're about to do an assignment called "Fizz Buzz", which is one of the classic
 It is a favorite for interviewers, and a shocking number of job-applicants can't get it right. 
 But you won't be one of those people. Here are the rules for the assignment:
 
-Write a program that prints the numbers from 1 to 100.
+Write a program that prints the numbers from 1 to 100. */
 
+let Counter = 2;
+while (Counter < 100) {
+   console.log ( Counter) {
+      counter++;
+   }
+}
+
+/*
 But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz".
 
 For numbers which are multiples of both three and five print "FizzBuzz".
@@ -116,6 +138,6 @@ Using the vowelCounter function below do the following:
 */
 
 
-function vowelCounter(/*add your code here*/) {
+/*function vowelCounter(/*add your code here*/) {
     /*add your code here*/
 }

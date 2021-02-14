@@ -6,6 +6,7 @@ The module is the afternoon assignment or task that students work through indepe
 
 ## Objectives
 
+
 - use let, const, var and demonstrate their differences.
 - understand and be able to use arrays.
 - write a basic for loop / while loop.
